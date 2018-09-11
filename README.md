@@ -17,5 +17,5 @@ Apresentações dos Tech Talks
 
 * Agenda
 * Apresentações
-  * Intrdução (Sérgio Guivala)
+  * Introdução (Sérgio Guivala)
 * Fotos
