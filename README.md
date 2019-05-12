@@ -26,7 +26,7 @@ Apresentações dos Tech Talks
 ### 3ª Edição (24 de Abril 2010) - Espaço Inovação, UEM
 
 * Apresentações
-  * [Large Scale-SIM Swap Fraud(Apresentacoes/3-edicao-24042019/Assolini_Tenreiro_SAS2019.pdf) (André Tenreiro / CERT-MZ)
-  * [Red Team: Casos Reais(Apresentacoes/3-edicao-24042019/PRIDESec_Apresentacao-CertMZ_RedTeam.pdf) (Wendel Guglielmetti Henrique / PRIDE Security)
+  * [Large Scale-SIM Swap Fraud](Apresentacoes/3-edicao-24042019/Assolini_Tenreiro_SAS2019.pdf) (André Tenreiro / CERT-MZ)
+  * [Red Team: Casos Reais](Apresentacoes/3-edicao-24042019/PRIDESec_Apresentacao-CertMZ_RedTeam.pdf) (Wendel Guglielmetti Henrique / PRIDE Security)
   * [Insegurança em Instituições Financeiras] (Felipe Balestra / PRIDE Security) - Apresentação não disponível publicamente
-  
+* [Fotos](Apresentacoes/3-edicao-24042019/Fotos)
