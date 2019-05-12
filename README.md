@@ -1,4 +1,21 @@
-Apresentações dos Tech Talks
+## Apresentações dos Tech Talks
+
+### 3ª Edição (24 de Abril 2010) - Espaço Inovação, UEM
+
+* Apresentações
+  * [Large Scale-SIM Swap Fraud](Apresentacoes/3-edicao-24042019/Assolini_Tenreiro_SAS2019.pdf) (André Tenreiro / CERT-MZ)
+  * [Red Team: Casos Reais](Apresentacoes/3-edicao-24042019/PRIDESec_Apresentacao-CertMZ_RedTeam.pdf) (Wendel Guglielmetti Henrique / PRIDE Security)
+  * Insegurança em Instituições Financeiras (Felipe Balestra / PRIDE Security) - Apresentação não disponível
+* [Fotos](Apresentacoes/3-edicao-24042019/Fotos)
+
+### 2ª Edição (30 de Agosto 2018) - Espaço Inovação, UEM
+
+* Apresentações
+  * [Cenários das Ameaças em Moçambique](Apresentacoes/2-edicao-30082018/CERTMZ-TechTalk2-Cenario_das_Ameacas_Mocambique_Assolini_2018_CERT.pdf) (Fábio Assolini / Kaspersky)
+  * [Clonagem de Cartões](Apresentacoes/1-edicao-03052018/CERT-MZ%20-%20DNS%20Security.pdf) (Thiago Marques / Kaspersky)
+  * [ACI e Segurança](2-edicao-30082018/CERTMZ-TechTalk2-ACIeSeguranca.pdf) (Paulo Machado)
+  * [Projecto Zero](Apresentacoes/2-edicao-30082018/CERTMZ-TechTalk2-Projeto0.pdf) (Ricardo Santos)
+  * [Honeypot MZ](2-edicao-30082018/CERTMZ-TechTalk2-HoneyPotMZ.pdf) (André Tenreiro)
 
 
 ### 1ª Edição (3 de Maio 2018) - Espaço Inovação, UEM
@@ -12,21 +29,3 @@ Apresentações dos Tech Talks
   * [Gestão de Vulnerabilidades](Apresentacoes/1-edicao-03052018/CERT-MZ%20-%20Gest%C3%A3o%20de%20Vulnerabilidades.pdf) (Alsone Guambe)
   * [Explorando Vulnerabilidades](Apresentacoes/1-edicao-03052018/CERT-MZ%20-%20Explorando%20Vulnerabilidades.pdf) (Arafat Bique)
 * [Fotos](Apresentacoes/1-edicao-03052018/Fotos)
-
-### 2ª Edição (30 de Agosto 2018) - Espaço Inovação, UEM
-
-* Apresentações
-  * [Cenários das Ameaças em Moçambique](Apresentacoes/2-edicao-30082018/CERTMZ-TechTalk2-Cenario_das_Ameacas_Mocambique_Assolini_2018_CERT.pdf) (Fábio Assolini / Kaspersky)
-  * [Clonagem de Cartões](Apresentacoes/1-edicao-03052018/CERT-MZ%20-%20DNS%20Security.pdf) (Thiago Marques / Kaspersky)
-  * [ACI e Segurança](2-edicao-30082018/CERTMZ-TechTalk2-ACIeSeguranca.pdf) (Paulo Machado)
-  * [Projecto Zero](Apresentacoes/2-edicao-30082018/CERTMZ-TechTalk2-Projeto0.pdf) (Ricardo Santos)
-  * [Honeypot MZ](2-edicao-30082018/CERTMZ-TechTalk2-HoneyPotMZ.pdf) (André Tenreiro)
-
-
-### 3ª Edição (24 de Abril 2010) - Espaço Inovação, UEM
-
-* Apresentações
-  * [Large Scale-SIM Swap Fraud](Apresentacoes/3-edicao-24042019/Assolini_Tenreiro_SAS2019.pdf) (André Tenreiro / CERT-MZ)
-  * [Red Team: Casos Reais](Apresentacoes/3-edicao-24042019/PRIDESec_Apresentacao-CertMZ_RedTeam.pdf) (Wendel Guglielmetti Henrique / PRIDE Security)
-  * Insegurança em Instituições Financeiras (Felipe Balestra / PRIDE Security) - Apresentação não disponível
-* [Fotos](Apresentacoes/3-edicao-24042019/Fotos)
