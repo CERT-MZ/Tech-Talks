@@ -28,5 +28,5 @@ Apresentações dos Tech Talks
 * Apresentações
   * [Large Scale-SIM Swap Fraud](Apresentacoes/3-edicao-24042019/Assolini_Tenreiro_SAS2019.pdf) (André Tenreiro / CERT-MZ)
   * [Red Team: Casos Reais](Apresentacoes/3-edicao-24042019/PRIDESec_Apresentacao-CertMZ_RedTeam.pdf) (Wendel Guglielmetti Henrique / PRIDE Security)
-  * [Insegurança em Instituições Financeiras] (Felipe Balestra / PRIDE Security) - Apresentação não disponível publicamente
+  * Insegurança em Instituições Financeiras (Felipe Balestra / PRIDE Security) - Apresentação não disponível
 * [Fotos](Apresentacoes/3-edicao-24042019/Fotos)
